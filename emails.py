@@ -3,7 +3,7 @@ def start(self):
     import win32com.client as win
     import datetime
     ##GROUPS
-    STAFF = ['Isaac Smith','Abby Brown','Barry Leibo', 'David Duncan','Devorah', 'Eddie Rose', 'Semion Tkachenko', 'Anna Camilleri', 'Dan Lungo', 'Grey Banks', 'Jan Nowak']
+    STAFF = ['Name List']
 
 
     #Cnnectection
